@@ -1,7 +1,7 @@
 # 🌾 Agriculture Vision: AI-Powered Computer Vision for Modern Agriculture
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)
+![Python Version](https://img.shields.io/badge/Python-3.11%2B-blue.svg)
 ![Frameworks](https://img.shields.io/badge/Frameworks-PyTorch%20%7C%20TensorFlow%20%7C%20OpenCV-orange.svg)
 ![YOLO Status](https://img.shields.io/badge/YOLO-v8%20%2F%20v11-brightgreen.svg)
 
@@ -105,7 +105,7 @@ agriculture-vision/
 
 ## 🛠️ Tech Stack & Tools
 
-* **Core Language**: Python 3.9+
+* **Core Language**: Python 3.11+
 * **Deep Learning Frameworks**: PyTorch, TensorFlow, Keras
 * **Computer Vision**: OpenCV, Ultralytics (YOLO), Albumentations
 * **Geospatial & Remote Sensing**: Rasterio, GeoPandas, QGIS, Google Earth Engine API
